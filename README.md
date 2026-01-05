@@ -16,7 +16,7 @@ Adaptations and improvements of projects found online
 Configurations and practical examples
 
 🚀 Included projects
-[Here you will add the list of projects]
+[...]
 
 🛠️ Technologies used
 Hardware:
