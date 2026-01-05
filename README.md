@@ -38,4 +38,5 @@ TFT_eSPI
 
 📝 Note
 The projects are under continuous development and experimentation. Feedback and suggestions are welcome!
+Some projects will include video demonstrations on YouTube.
 This README will be updated in the future.
